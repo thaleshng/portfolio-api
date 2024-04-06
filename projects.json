@@ -14,7 +14,7 @@
             "description": "Projeto autoral baseado no projeto de um evento que tinha como intuito demonstrar algumas interações possíveis de se fazer com JavaScript.",
             "pageLink": "https://thaleshng.github.io/one-piece-akuma-no-mi-selection/",
             "githubLink": "https://github.com/thaleshng/one-piece-akuma-no-mi-selection",
-            "src": "https://drive.google.com/file/d/1GnKkknkAEvfzhC3XiLizg2cFy7rCrQeE/view?usp=drive_link"
+            "src": "https://raw.githubusercontent.com/thaleshng/portfolio-api/main/assets/one-piece-akuma-no-mi-selection.png"
         },
         {
             "number": "Projeto 3",
@@ -22,7 +22,7 @@
             "description": "Landing Page de uma agência fícticia com o intuito testar os aprendizados dos módulos de HTML e CSS do curso de developer, usando as ferramentas ensinadas no mesmo, principalmente Flexbox e Grid.",
             "pageLink": "https://thaleshng.github.io/landing-page-com-grid-e-flex/",
             "githubLink": "https://github.com/thaleshng/landing-page-com-grid-e-flex",
-            "src": "https://drive.google.com/file/d/1x-Q-kt23RhyYtKDoIA6_d-rBPqiIsg4L/view?usp=drive_link"
+            "src": "https://raw.githubusercontent.com/thaleshng/portfolio-api/main/assets/landing-page-agencia-ficticia.png"
         },
         {
             "number": "Projeto 4",
@@ -30,7 +30,7 @@
             "description": "Projeto SPA (Single Page Application) desenvolvida em React com temática do desenho japonês Pokémon usando a API disponibilizada pelo site oficial, permitindo que os usuários explorem informações sobre o Pokémon que desejar.",
             "pageLink": "https://thaleshng.github.io/quest-react-avancado-pokedex/",
             "githubLink": "https://github.com/thaleshng/quest-react-avancado-pokedex",
-            "src": "https://drive.google.com/file/d/1BrYVdKqmvxZkOJ5cphyQRjSGwRdrG3Fc/view?usp=drive_link"
+            "src": "https://raw.githubusercontent.com/thaleshng/portfolio-api/main/assets/pokedex.png"
         }
     ]
 }
