@@ -47,6 +47,10 @@
         {
             "name": "PostgreSQL",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+        },
+        {
+            "name": "Node.js",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
         }
     ]
 }
